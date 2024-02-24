@@ -8,7 +8,6 @@ import { ItemPage } from '@/modules/item/ItemPage.tsx';
 
 const boxShadowSettings = '12px 0 8px -4px rgba(0, 0, 0, 0.4), -12px 0 8px -4px rgba(0, 0, 0, 0.4)';
 const App = () => {
-  // const [count, setCount] = useState(0);
   return (
     <>
       <Container maxWidth="md" disableGutters={true}>
